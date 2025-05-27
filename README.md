@@ -13,4 +13,19 @@ WORKS???   :--
 It changes the movie genres into numbers using TF-IDF,
 Then it compares the movies using cosine similarity,
 When you type a movie name, it finds and shows 3 most similar movies (not including the same one),
->>>>>>> 2d52138209c5ba19a632adf47cd0371700deb286
+
+2. AI-Based Disease Prediction System :-- (Status: 🟡 Ongoing (Frontend in development phase)
+
+This is the React.js frontend of the AI-Based Disease Prediction System. It allows users to sign up, log in, and interact with the AI assistant through a clean and responsive UI. The goal is to provide health-related insights using an AI-powered backend system.
+Key Features:
+
+User login and signup pages
+
+Interactive dashboard for disease prediction
+
+OTP verification 
+
+Modular component structure and CSS styling
+
+Tech Stack:
+React.js, JavaScript, HTML, CSS
